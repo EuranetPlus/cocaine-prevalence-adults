@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Prevalence užívání kokainu v Evropě",
+  "subtitle": "Prevalence užívání kokainu u dospělých (15–64 let) v Evropě v zemích Evropské unie v roce 2024",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje pro Maltu nejsou k dispozici.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "EMCDDA",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "dospělých"
 }
