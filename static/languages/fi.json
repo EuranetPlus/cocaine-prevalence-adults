@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kokaiinin käytön yleisyys Euroopassa",
+  "subtitle": "Kokaiinin käytön esiintyvyys aikuisten (15–64) keskuudessa Euroopassa Euroopan unionin maissa vuonna 2024",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Maltan tietoja ei ole saatavilla.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "EMCDDA",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "aikuisista"
 }
