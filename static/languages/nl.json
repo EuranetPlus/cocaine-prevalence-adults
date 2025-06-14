@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Prevalentie van cocaïnegebruik in Europa",
+  "subtitle": "Prevalentie van cocaïnegebruik onder volwassenen (15-64) in Europa in landen van de Europese Unie in 2024",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Er zijn geen gegevens beschikbaar voor Malta.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "EWDD",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "van volwassenen"
 }
